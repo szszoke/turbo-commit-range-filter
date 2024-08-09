@@ -1,5 +1,5 @@
 {
-  "name": "turbo-commit-range-filter",
+  "name": "@turbo-commit-range-filter/repro",
   "version": "1.0.0",
   "workspaces": [
     "packages/*"

@@ -1,7 +1,10 @@
 {
-  "name": "@turbo-commit-range-filter/b",
+  "name": "@turbo-commit-range-filter/c",
   "version": "1.0.0",
   "main": "./dist/index.js",
+  "dependencies": {
+    "@turbo-commit-range-filter/a": "*"
+  },
   "devDependencies": {},
   "scripts": {
     "build": "tsc"

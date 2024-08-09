@@ -1,7 +1,12 @@
 {
-  "name": "a",
+  "name": "@turbo-commit-range-filter/a",
   "version": "1.0.0",
-  "main": "index.js",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
   "scripts": {
     "build": "tsc"
   },

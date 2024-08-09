@@ -1,1 +1,3 @@
-console.log("a");
+export function doWork() {
+  console.log("a");
+}
