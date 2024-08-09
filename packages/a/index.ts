@@ -1,3 +1,3 @@
 export function doWork() {
-  console.log("a");
+  console.log("a updated");
 }
